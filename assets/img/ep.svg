@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="50"
+   viewBox="0 0 26.458333 13.229167"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="ep.svg"
+   inkscape:version="0.92.0 r15299">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="350"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-283.77082)">
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#d8d8d8;stroke-width:0.57386202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.38446581;stroke-opacity:1"
+       id="rect4493"
+       width="84.037926"
+       height="53.188644"
+       x="-94.935631"
+       y="118.90863"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.78843689px;line-height:50.68994904px;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std';letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:2.05683327"
+       x="-94.17952"
+       y="166.62561"
+       id="text4487"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.0058326,0.99420126)"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="-94.17952"
+         y="166.62561"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50.68994904px;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std Bold';fill:#008080;stroke-width:2.05683327">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:75.69698334px;line-height:50.68994904px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.02759767"
+       x="-58.207462"
+       y="166.94678"
+       id="text4491"
+       transform="scale(1.0214436,0.97900659)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4489"
+         x="-58.207462"
+         y="166.94678"
+         style="line-height:50.68994904px;fill:#e6e6e6;stroke-width:2.02759767">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.4110384px;line-height:50.68994904px;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10017247"
+       x="-90.389153"
+       y="179.40852"
+       id="text4497"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.0058326,0.99420126)"><tspan
+         sodipodi:role="line"
+         id="tspan4495"
+         x="-90.389153"
+         y="179.40852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.4110384px;line-height:50.68994904px;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std';stroke-width:0.10017247">E - Prakerin</tspan></text>
+  </g>
+</svg>
